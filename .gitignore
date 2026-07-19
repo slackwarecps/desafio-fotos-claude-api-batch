@@ -1,0 +1,29 @@
+# Environment
+.env
+.env.local
+skill_id.txt
+api_key.txt
+
+# Media files (large)
+fotos/*.png
+fotos/*.jpg
+fotos/*.jpeg
+
+# Generated cards
+cards_gerados/*.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
